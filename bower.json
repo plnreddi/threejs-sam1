@@ -7,7 +7,7 @@
   "description": "Sample files for bower testing",
   "main": [ 
     "lib/Three.js",
-    "lib/OrbitControler.js",
+    "lib/OrbitControls.js",
     "lib/Detector.js"
   ]
   "license": "MIT",
