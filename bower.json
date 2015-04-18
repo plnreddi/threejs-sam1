@@ -9,7 +9,7 @@
     "lib/Three.js",
     "lib/OrbitControls.js",
     "lib/Detector.js"
-  ]
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
