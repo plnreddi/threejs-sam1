@@ -5,7 +5,11 @@
     "xyz"
   ],
   "description": "Sample files for bower testing",
-  "main": "./OrbitControler.js",
+  "main": [ 
+    "lib/Three.js",
+    "lib/OrbitControler.js",
+    "lib/Detector.js"
+  ]
   "license": "MIT",
   "ignore": [
     "**/.*",
